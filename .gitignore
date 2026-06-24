@@ -109,6 +109,8 @@ common/autoinstallers/*/.npmrc
 .turbo/
 temp/
 lib/
+!packages/ui/src/lib/
+!packages/ui/src/lib/utils.ts
 lib-amd/
 lib-es6/
 lib-esm/
